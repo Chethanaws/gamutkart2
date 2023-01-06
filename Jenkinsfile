@@ -1,7 +1,7 @@
 pipeline {
     agent any
 	
-	}
+	
 //	environment {
 //		M2_INSTALL = "/usr/bin/mvn"
 //	}
